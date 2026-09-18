@@ -68,7 +68,7 @@ Power-BI-Portfolio/
 │
 ├── Power-BI-Chart-Practice/
 ├── Retail-Sales-Dashboard/
-└── Documentation/
+└── README(Documentation)/
 ```
 
 ## Project Objective
